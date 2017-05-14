@@ -11,6 +11,7 @@ namespace Bridge
         static void Main(string[] args)
         {
             Console.WriteLine("Dang");
+            Console.ReadLine();
         }
     }
 }
